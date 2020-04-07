@@ -3,15 +3,14 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-FIXME: home page introduction
 
-<!-- this is an html comment -->
+Nesta seção vamos aprender sobre as ferramentas que possibilitam a pesquisa reproduzível.
 
-{% comment %} This is a comment in Liquid {% endcomment %}
+Controle de versão com git e colaboração com GitHub. Relatórios dinâmicos. Uso do pacote rmarkdown. Organização de projetos de análise de dados.
 
-> ## Prerequisites
+> ## Pré-requisitos
 >
-> FIXME
+> Essa seção não possui pré-requisitos.
 {: .prereq}
 
 {% include links.md %}
