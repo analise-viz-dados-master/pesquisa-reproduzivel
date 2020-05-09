@@ -1,0 +1,658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sqlite",
+				"sqlite3"
+			],
+			[
+				"region",
+				"region_text"
+			],
+			[
+				"w",
+				"window"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"raw",
+				"Raw Line Edit: View Line Endings"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Validate"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rawl",
+				"Raw Line Edit: Toggle Line Edit Mode"
+			],
+			[
+				"REPL py",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"REPL",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"evernote",
+				"Evernote: Search Note"
+			],
+			[
+				"evernote se",
+				"Evernote: Search Note"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"template",
+				"File Manager: List Templates"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"liverel",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"open",
+				"File Manager: Open In Browser"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"live reload",
+				"LiveReload: Help"
+			],
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"file manager",
+				"File Manager: Create Template"
+			],
+			[
+				"file mana",
+				"File Manager: New File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 669.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"view.run_command('example')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fjunior/Dropbox/projects/stat545/stat545.sublime-project",
+		"/Users/fjunior/Dropbox/notebook/shell - sed.md",
+		"/Users/fjunior/Dropbox/notebook/shell - sed - edit specific lines.md",
+		"/Users/fjunior/Dropbox/notebook/shell - sed - automatic printing.md",
+		"/Users/fjunior/Dropbox/notebook/shell - sed - quit command.md",
+		"/Users/fjunior/Dropbox/notebook/shell - sed - regex match new line.md",
+		"/Users/fjunior/Dropbox/notebook/csvkit.md",
+		"/Users/fjunior/Dropbox/notebook/csvfix - setup.md",
+		"/Users/fjunior/Dropbox/notebook/csvfix - usage.md",
+		"/Users/fjunior/Local/inventario-de-dados/compras-publicas/reprex.md",
+		"/Users/fjunior/Dropbox/notebook/shell - tilde expansion.md",
+		"/Users/fjunior/Dropbox/notebook/shell - sed - edit file in place.md",
+		"/Users/fjunior/.csvfix",
+		"/Users/fjunior/.bash_profile",
+		"/Users/fjunior/Dropbox/notebook/stat545 - script - reproducible research.md",
+		"/Users/fjunior/Dropbox/notebook/stat545 - syllabus - reproducible research.md",
+		"/Users/fjunior/Dropbox/notebook/stat545 - resources - pt.md",
+		"/Users/fjunior/Dropbox/notebook/version control - github.md",
+		"/Users/fjunior/Dropbox/notebook/stat545 - exercise - git.md",
+		"/Users/fjunior/Dropbox/notebook/stat545 - resources.md",
+		"/Users/fjunior/Dropbox/notebook/stat545 - script - data visualization.md",
+		"/Users/fjunior/Local/age7-compras/scripts/schema.sql",
+		"/Users/fjunior/Local/age7-compras/README.md",
+		"/Users/fjunior/Local/age7-compras/scripts/import.sql",
+		"/Users/fjunior/Local/age7-compras/scripts/tables.txt",
+		"/Users/fjunior/Local/age7-compras/.git/COMMIT_EDITMSG",
+		"/Users/fjunior/Local/age7-compras/data-raw/ft_compras.csv",
+		"/Users/fjunior/Local/age7-compras/data-raw/dm_unidade_orc.csv",
+		"/Users/fjunior/Local/age7-compras/data-raw/dm_municipio.csv",
+		"/Users/fjunior/Local/age7-compras/tmp",
+		"/Users/fjunior/Dropbox/notebook/rstats - dm.md",
+		"/Users/fjunior/Dropbox/notebook/sqlite - rstats.md",
+		"/Users/fjunior/Dropbox/notebook/notebook.sublime-project",
+		"/Users/fjunior/Local/sqlite/dm_tempo_diario.csv",
+		"/Users/fjunior/Dropbox/scratchpad/data/dm_unidade_orc.csv",
+		"/Users/fjunior/Dropbox/scratchpad/pad.sql",
+		"/Users/fjunior/Dropbox/scratchpad/data/dm_tempo_diario.csv",
+		"/Users/fjunior/Dropbox/scratchpad/data/pad.sql",
+		"/Users/fjunior/Dropbox/notebook/stat545 - topic - getting help.md",
+		"/Users/fjunior/Local/pesquisa-reproduzivel/setup.md",
+		"/Users/fjunior/Dropbox/notebook/stat545 - topic - tech stack.md",
+		"/Users/fjunior/Dropbox/notebook/shell - bash - style guide - man pages.md",
+		"/Users/fjunior/Dropbox/notebook/shell - bash - style guide - arguments.md",
+		"/Users/fjunior/Local/pesquisa-reproduzivel/Makefile",
+		"/Users/fjunior/Local/pesquisa-reproduzivel/bin/run-make-docker-serve.sh",
+		"/Users/fjunior/Dropbox/notebook/csv - validation.md",
+		"/Users/fjunior/Local/pesquisa-reproduzivel/bin/lesson_initialize.py",
+		"/Users/fjunior/Dropbox/notebook/stat545 - rstudio cloud.md",
+		"/Users/fjunior/Dropbox/foo.txt",
+		"/Users/fjunior/Dropbox/reference/nucc/compras/dm_processo.csv",
+		"/Users/fjunior/Dropbox/reference/nucc/compras/dm_processo_err.csv",
+		"/Users/fjunior/Dropbox/reference/nucc/compras/dm_grupo_matserv.csv",
+		"/Users/fjunior/Dropbox/reference/nucc/compras/dm_contrato.csv",
+		"/Users/fjunior/Local/inventario-de-dados/contratacoes-covid19/schema.json",
+		"/Users/fjunior/Dropbox/projects/transparencia_dta/contratos/Contrato INF. 2384_vigente/trechos-relevantes.md",
+		"/Users/fjunior/Dropbox/projects/transparencia_dta/planejamento_2020/PlanejamentoSoraia.md",
+		"/Users/fjunior/Dropbox/projects/transparencia_dta/planejamento_2020/conhecimentos.md",
+		"/Users/fjunior/Dropbox/notebook/dta - gmail and microsoft accounts.md",
+		"/Users/fjunior/Dropbox/notebook/ruby.md",
+		"/Users/fjunior/Dropbox/notebook/csvlint - webservice.md",
+		"/Users/fjunior/Dropbox/notebook/communication - social norms - guidelines.md",
+		"/Users/fjunior/Dropbox/notebook/backup.md",
+		"/Users/fjunior/Local/inventario-de-dados/compras-publicas/data-raw/der/DM_Tables.csv",
+		"/Users/fjunior/Local/teste.csv/DM_Tables.csv",
+		"/Users/fjunior/OneDrive/Backups/nucc-2020-03-31/compras/dmcontrato.csv",
+		"/Users/fjunior/OneDrive/Backups/nucc-2020-03-31/compras/dmcontrato_err.csv",
+		"/Users/fjunior/OneDrive/Backups/nucc-2020-03-31/compras/dmitemmatserv.csv",
+		"/Users/fjunior/Dropbox/notebook/networks - curl - ftp - rstats.md",
+		"/Users/fjunior/Dropbox/notebook/networks - curl - sftp - rstats.md",
+		"/Users/fjunior/Dropbox/notebook/git - file history.md",
+		"/Users/fjunior/Dropbox/reference/nucc/compras-ckan/dmitemmatserv2017.csv",
+		"/Users/fjunior/Dropbox/reference/nucc/compras/dmgrupomatserv.csv",
+		"/Users/fjunior/Local/planejamento-financeiro/data-raw/foo.html",
+		"/Users/fjunior/Local/planejamento-financeiro/data-raw/bar.html",
+		"/Users/fjunior/Dropbox/notebook/communication - high and low fidelity media.md",
+		"/Users/fjunior/Dropbox/notebook/covid19.md",
+		"/Users/fjunior/Dropbox/notebook/open data - inda.md",
+		"/Users/fjunior/Dropbox/notebook/csv - parsing.md",
+		"/Users/fjunior/Dropbox/notebook/network - curl.md",
+		"/Users/fjunior/Dropbox/notebook/csv.md",
+		"/Users/fjunior/validation.json",
+		"/Users/fjunior/output.json",
+		"/Users/fjunior/Dropbox/notebook/setup - zotero.md",
+		"/Users/fjunior/Dropbox/notebook/bibliography.bib",
+		"/Users/fjunior/Dropbox/scratch/scratch.py",
+		"/Users/fjunior/Dropbox/projects/qc-consulta-remuneracao/qc.R",
+		"/Users/fjunior/Local/especificacoes-portal-transparencia/espec003_consulta-restos-a-pagar/inclusao-novos-filtros-consulta-restos-a-pagar-homologa-espec.md",
+		"/Users/fjunior/Dropbox/notebook/git - cheatsheet.md",
+		"/Users/fjunior/Dropbox/notebook/stat545 - syllabus - data visualization.md",
+		"/Users/fjunior/Dropbox/notebook/stat545 - schedule.md",
+		"/Users/fjunior/Dropbox/infracoes_perrout.Rmd",
+		"/Users/fjunior/Local/notas-tecnicas/notas/consulta-juridica-dados-pessoais.md",
+		"/Users/fjunior/Dropbox/notebook/legislacao - lei-1993-06-21-8666.md",
+		"/Users/fjunior/Dropbox/notebook/legislacao - lei-2020-02-06-13979.md",
+		"/Users/fjunior/Local/notas-tecnicas/notas/minuta-oficio-COVID19.md",
+		"/Users/fjunior/Local/inventario-de-dados/.git/MERGE_MSG",
+		"/Users/fjunior/Local/inventario-de-dados/README.md",
+		"/Users/fjunior/Local/inventario-de-dados/compras-publicas/eda.Rmd",
+		"/Users/fjunior/Local/inventario-de-dados/contratacoes-covid19/contratacaocoronavirus20200326.csv",
+		"/Users/fjunior/Dropbox/notebook/shell - bash - data analysis - csv.md",
+		"/Users/fjunior/Dropbox/notebook/setup - sublime text.md",
+		"/Users/fjunior/Dropbox/notebook/setup - osx.md",
+		"/Users/fjunior/Local/inventario-de-dados/divida-publica/divida-ftp-dataset-desnormalizado.json",
+		"/Users/fjunior/Local/especificacoes-portal-transparencia/espec004_automacao-carga-ckan/automacao-carga-ckan.md",
+		"/Users/fjunior/Local/especificacoes-portal-transparencia/espec011_valor_pago/espec011_valor-pago.md",
+		"/Users/fjunior/Local/notas-reunioes/notas/2020-02-07_pauta_ANE-PRODEMGE.md",
+		"/Users/fjunior/Local/notas-reunioes/notas/2020-02-07_resumo_ANE-PRODEMGE.md",
+		"/Users/fjunior/Dropbox/notebook/shell - bash - ls - sort files by size.md",
+		"/Users/fjunior/Dropbox/notebook/dta - acesso remoto - anydesk.md",
+		"/Users/fjunior/Local/covid19-br/collect.sh",
+		"/Users/fjunior/Local/covid19-br/foo.sh",
+		"/Users/fjunior/Dropbox/notebook/python - virtualenv.md",
+		"/Users/fjunior/Dropbox/notebook/shell - bash - scripting - executable.md",
+		"/Users/fjunior/Dropbox/notebook/shell - bash - scripting - functions.md",
+		"/Users/fjunior/Dropbox/notebook/shell - bash - scripting - command substitution.md",
+		"/Users/fjunior/Dropbox/notebook/shell - bash - scripting.md",
+		"/Users/fjunior/Dropbox/notebook/dta - gmail accounts.md",
+		"/Users/fjunior/Dropbox/notebook/covid19 - caring.md",
+		"/Users/fjunior/Local/covid19-br/.gitignore",
+		"/Users/fjunior/Local/covid19-br/data/output/boletim.csv",
+		"/Users/fjunior/Local/covid19-br/base.sh",
+		"/Users/fjunior/Local/covid19-br/deploy.sh",
+		"/Users/fjunior/Local/covid19-br/run.sh",
+		"/Users/fjunior/Dropbox/notebook/rstats - rjava.md",
+		"/Users/fjunior/Local/planejamento-financeiro/data-raw/contacorrente-bb_samira_2020-01.csv",
+		"/Users/fjunior/.gitconfig",
+		"/Users/fjunior/Local/planejamento-financeiro/COICOP_2018_-_pre-edited_white_cover_version_-_2018-12-26.pdf",
+		"/Users/fjunior/Dropbox/home/Sublime/User/my_plugin.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.raw_line_edit_view":
+	{
+		"height": 457.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sed",
+				"shell - sed - edit specific lines.md"
+			],
+			[
+				"csvk",
+				"csvkit.md"
+			],
+			[
+				"resour",
+				"stat545 - resources.md"
+			],
+			[
+				"resources",
+				"stat545 - resources.md"
+			],
+			[
+				"versi",
+				"version control - github.md"
+			],
+			[
+				"stat545",
+				"stat545 - script - data visualization.md"
+			],
+			[
+				"csv da",
+				"shell - bash - data analysis - csv.md"
+			],
+			[
+				"sqlite",
+				"sqlite - rstats.md"
+			],
+			[
+				"dm rsta",
+				"rstats - dm.md"
+			],
+			[
+				"github",
+				"version control - github.md"
+			],
+			[
+				"reproducible",
+				"stat545 - syllabus - reproducible research.md"
+			],
+			[
+				"bash",
+				"shell - bash - style guide - man pages.md"
+			],
+			[
+				"csv va",
+				"csv - validation.md"
+			],
+			[
+				"stat scr",
+				"stat545 - script - reproducible research.md"
+			],
+			[
+				"rstudio",
+				"stat545 - rstudio cloud.md"
+			],
+			[
+				"good",
+				"csv - validation - goodtables.md"
+			],
+			[
+				"csv",
+				"csv - validation.md"
+			],
+			[
+				"account",
+				"dta - gmail and microsoft accounts.md"
+			],
+			[
+				"csvlit",
+				"csvlint - webservice.md"
+			],
+			[
+				"csvli",
+				"csv - validation.md"
+			],
+			[
+				"backup",
+				"backup.md"
+			],
+			[
+				"ftp",
+				"networks - curl - ftp - rstats.md"
+			],
+			[
+				"accoun",
+				"dta - gmail and microsoft accounts.md"
+			],
+			[
+				"accou",
+				"dta - gmail and microsoft accounts.md"
+			],
+			[
+				"fide",
+				"communication - high and low fidelity media.md"
+			],
+			[
+				"covid",
+				"covid19.md"
+			],
+			[
+				"ruby",
+				"ruby.md"
+			],
+			[
+				"setup",
+				"setup - zotero.md"
+			],
+			[
+				"git",
+				"git - cheatsheet.md"
+			],
+			[
+				"schedu stat545",
+				"stat545 - schedule.md"
+			],
+			[
+				"stat545 scri",
+				"stat545 - script - data visualization.md"
+			],
+			[
+				"legislacao",
+				"legislacao - lei-1993-06-21-8666.md"
+			],
+			[
+				"accounts",
+				"dta - gmail and microsoft accounts.md"
+			],
+			[
+				"sublime",
+				"setup - sublime text.md"
+			],
+			[
+				"setup osx",
+				"setup - osx.md"
+			],
+			[
+				"tables",
+				"rstats - task views - summary tables.md"
+			],
+			[
+				"dta gm",
+				"dta - gmail and microsoft accounts.md"
+			],
+			[
+				"dta",
+				"dta - acesso remoto - anydesk.md"
+			],
+			[
+				"scripting",
+				"shell - bash - scripting - functions.md"
+			],
+			[
+				"shell ex",
+				"shell - bash - scripting - executable.md"
+			],
+			[
+				"python",
+				"python - virtualenv.md"
+			],
+			[
+				"java",
+				"rstats - rjava.md"
+			],
+			[
+				"log co",
+				"sublime text - log commands.md"
+			],
+			[
+				"subli",
+				"sublime text - plugins.md"
+			],
+			[
+				"sublim",
+				"setup - sublime text.md"
+			],
+			[
+				"setpup",
+				"setup - osx - python.md"
+			],
+			[
+				"programm",
+				"computing - programming.md"
+			],
+			[
+				"files",
+				"file system - auditing.md"
+			],
+			[
+				"alfred",
+				"setup - alfred.md"
+			],
+			[
+				"foo",
+				"foobar.md"
+			],
+			[
+				"moment",
+				"stats - moments - general definition.md"
+			],
+			[
+				"sublime text",
+				"setup - sublime text.md"
+			],
+			[
+				"product nota",
+				"math - algebraic properties of product notation.md"
+			],
+			[
+				"stat",
+				"stats - asymptotic analysis.md"
+			],
+			[
+				"stats",
+				"stats - asymptotic analysis.md"
+			],
+			[
+				"math",
+				"math - proportionality.md"
+			],
+			[
+				"sublime te",
+				"setup - sublime text.md"
+			],
+			[
+				"snippet",
+				"sublime text - snippets.md"
+			],
+			[
+				"new file",
+				"new file.md"
+			],
+			[
+				"osx set",
+				"osx setup.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
